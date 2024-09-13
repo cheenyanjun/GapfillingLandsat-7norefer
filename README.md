@@ -14,5 +14,5 @@ The strip chart and classification chart here are both paired, and the processin
  ![image](https://github.com/cheenyanjun/GapfillingLandsat-7norefer/assets/161917400/dadbc823-30ae-4825-99c1-f581b3c92a00)
 
 The command line window will display information such as "21.624961 seconds have passed".
-This is the code I wrote, and your task is to find a way to surpass me. After finding it, I will provide you with the following large image for further experiments:
+This is the code I wrote, and your task is to find a way to surpass mine. After finding it, you can process the following large image for further experiments:
 ![image](https://github.com/cheenyanjun/GapfillingLandsat-7norefer/assets/161917400/ea11007e-8e8a-4032-9d16-8851c168bb1d)
